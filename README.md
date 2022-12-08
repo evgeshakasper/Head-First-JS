@@ -1,2 +1,3 @@
 # Head-First-JS
-Home Task
+
+There are my home tasks from the book.
